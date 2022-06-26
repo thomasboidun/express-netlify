@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-api",
+  "version": "1.0.0",
+  "description": "A simple Node.js API",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "nodejs-api"
+  },
+  "keywords": [
+    "api",
+    "nodejs",
+    "express",
+    "sequelize"
+  ],
+  "author": "Thomas Boidun",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
